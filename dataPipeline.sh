@@ -10,7 +10,7 @@
 
 # transform data  date year month day time -> month day 
 
-#di dakchi lcsv -> .csv 
+#di dakchi lcsv -> .csv  qsdqsd
 
 
 
